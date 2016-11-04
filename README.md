@@ -33,7 +33,7 @@
 
     เกิด error ขึ้น เนื่องจากว่า ไม่ทราบว่าจะเเปลงให้เป็นชนิด int หรือ char กันแน่ ดังรูปนี้
     
-   
+  ![](https://github.com/fernkamon/LAB-06/blob/master/imgs/error.JPG) 
 
 
 3).	โปรแกรมสำหรับรับ string จากคีย์บอร์ด
