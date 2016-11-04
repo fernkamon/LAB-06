@@ -134,5 +134,5 @@ namespace Lab6
 }
 ```
 
-![]()
+![](https://github.com/fernkamon/LAB-06/blob/master/imgs/student.JPG)
       
