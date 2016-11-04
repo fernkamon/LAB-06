@@ -27,7 +27,7 @@
 
       ออกมาแค่ตัวอักษรเดียว เพราะ char นั้นจะเก็บค่าแค่ 1 ตัวเท่านั้น ดังรูปต่อไปนี้
       
-    ![](https://github.com/fernkamon/LAB-06/blob/master/imgs/2.JPG)
+  ![](https://github.com/fernkamon/LAB-06/blob/master/imgs/2.JPG)
 
 ###คำถาม 6.2 ในบรรทัดที่ 11 ซึ่งมีโปรแกรมเป็น ```ch = (char)Console.Read();```  นั้น ถ้าตัด ```(char)``` ออกไป จะเกิดอะไรขึ้น ให้อธิบายประกอบ
 <hr>
