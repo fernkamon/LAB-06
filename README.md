@@ -91,3 +91,48 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+
+        Code
+
+```
+    using System;
+
+
+namespace Lab6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                string str;
+                Console.Write("Please enter Name : ");
+                str = Console.ReadLine();
+
+                Console.Write("Please enter Lastname : ");
+                str = Console.ReadLine();
+
+                Console.Write("Please enter ID : ");
+                int val1 = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Please enter GPA : ");
+                double val2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("----------------------------------------------------");
+                Console.WriteLine("Name : " + str);
+                Console.WriteLine("Lastname : " + str);
+                Console.WriteLine("ID : " + val1);
+                Console.WriteLine("GPA :  "+ val2);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error : " + e.ToString());
+            }
+        }
+    }
+}
+```
+
+![]()
+      
