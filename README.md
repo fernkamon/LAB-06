@@ -18,12 +18,10 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic1.png)
 
   2.2).	โปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+    เมื่อพิมพ์ตัวอักษรใดไป แล้วกด ENTER ตัวอักษรนั้นก็จะปรากฎ ออกมาที่อีกบรรทัด ตามที่เขียนไว้ ดังนี้
+    
+![](https://github.com/fernkamon/LAB-06/blob/master/imgs/1.JPG)
 
 ###คำถาม 6.1 ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
 <hr>
